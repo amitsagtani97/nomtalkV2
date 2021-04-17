@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "755214966168",
+    "firebase_url": "https://talk-english-6f846.firebaseio.com",
+    "project_id": "talk-english-6f846",
+    "storage_bucket": "talk-english-6f846.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755214966168:android:c3425f429d0322b773dfed",
+        "android_client_info": {
+          "package_name": "com.neonfluency.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755214966168-1joo2v9lr3fma4oe3l350vp062g7php4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neonfluency.user",
+            "certificate_hash": "a9feeaa3e7bcc83fc8f2e87e2e64242dd030d5cf"
+          }
+        },
+        {
+          "client_id": "755214966168-dhf76hv8hqu9642nkf4lchc9dc9argjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp2sEb5DFjB4rMEVLG67odUXqp9gK5uts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755214966168-dhf76hv8hqu9642nkf4lchc9dc9argjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755214966168:android:543fb305781c8b8073dfed",
+        "android_client_info": {
+          "package_name": "rishabh.talk_english"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755214966168-3lpj9l9susfl8qstifsl5srbl7vv4nfo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rishabh.talk_english",
+            "certificate_hash": "a9feeaa3e7bcc83fc8f2e87e2e64242dd030d5cf"
+          }
+        },
+        {
+          "client_id": "755214966168-dhf76hv8hqu9642nkf4lchc9dc9argjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp2sEb5DFjB4rMEVLG67odUXqp9gK5uts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755214966168-dhf76hv8hqu9642nkf4lchc9dc9argjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

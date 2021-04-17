@@ -1,0 +1,55 @@
+name: talk_english
+description: App for Graphic Chef internship
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 3.0.1+3
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.3
+  flutter_signin_button: ^1.0.0
+  url_launcher:
+  smooth_star_rating: 1.1.1
+
+  #IAP
+  in_app_purchase: ^0.3.4+8
+
+  #jitsi
+  jitsi_meet: ^0.3.0
+
+  #firebase_Services
+  firebase_core: ^0.4.5
+
+  #databse
+  cloud_firestore: ^0.13.7
+
+  #user_auth
+  firebase_auth: ^0.16.1
+  google_sign_in: ^4.5.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
