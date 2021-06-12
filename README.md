@@ -1,6 +1,6 @@
-# talk_english
+# NomTalk
 
-App for Graphic Chef internship
+App to learn new langugae the Crypto way
 
 ## Getting Started
 
